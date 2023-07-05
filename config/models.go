@@ -39,11 +39,7 @@ type Config struct {
 	}
 	ReportPlanDays []string
 	NewMonthDays   []string
-	ChatID         struct {
-		Gleb      int64
-		Alexander int64
-		Denis     int64
-	}
+	ChatID         int64
 }
 
 type User struct {

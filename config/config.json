@@ -17,7 +17,7 @@
     "___DESCRIPTION_BOT_PARAMS___": "Основные параметры бота",
 
     "botParams":{
-        "token" : "5992922537:AAGEoE6KG4nzrcz4k3lmPoioJ80ux4PbDkE"
+        "token" : "6020503888:AAFh_UWTMSkr4AzwabMgN0TD6X5nqRg3cNw"
     },
     
     "___DESCRIPTION_SQL_REQUEST___": "Запросы в базу данных",
@@ -51,11 +51,7 @@
     },
     "reportPlanDays" :["28-04", "31-05", "30-06", "31-07", "31-08", "29-09", "31-10", "30-11", "29-12"],
     "newMonthDays" :["02-05", "01-06", "03-07", "01-08", "01-09", "02-10", "01-11", "01-12"],
-    "chatID":{
-        "gleb": 1,
-        "alexander": 1,
-        "denis": 1
-    }
+    "chatID": -890520774
 }
 
 
